@@ -15,4 +15,6 @@ How to Execute program
 1. You can set resolution, Distance, Phi, Theta, Psi.
 1. Click reset to delete loaded file.
 
-![alt text]()
+![alt text](https://github.com/sathvik-sankruth/Computer_Graphics/blob/master/Screen%20Shot%202020-06-03%20at%2010.52.15%20PM.png)
+![alt text](https://github.com/sathvik-sankruth/Computer_Graphics/blob/master/Screen%20Shot%202020-06-03%20at%2010.52.15%20PM.png)
+![alt text](https://github.com/sathvik-sankruth/Computer_Graphics/blob/master/Screen%20Shot%202020-06-03%20at%2010.52.15%20PM.png)
