@@ -17,4 +17,4 @@ How to Execute program
 
 ![alt text](https://github.com/sathvik-sankruth/Computer_Graphics/blob/master/Screen%20Shot%202020-06-03%20at%2010.52.15%20PM.png)
 ![alt text](https://github.com/sathvik-sankruth/Computer_Graphics/blob/master/Screen%20Shot%202020-06-03%20at%2010.52.45%20PM.png)
-![alt text](https://github.com/sathvik-sankruth/Computer_Graphics/blob/master/Screen%20Shot%202020-06-03%20at%2010.52.15%20PM.png)
+![alt text](https://github.com/sathvik-sankruth/Computer_Graphics/blob/master/Screen%20Shot%202020-06-03%20at%2010.53.53%20PM.png)
